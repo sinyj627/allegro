@@ -1,0 +1,336 @@
+\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:01)     Journal start - Tue Jul 16 17:39:24 2019
+\t (00:00:01)         Host=DESKTOP-0CCQGI6 User=user Pid=6088 CPUs=4
+\t (00:00:01) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORK\PCB_LIB\PSM_YJ\328\allegro\ATMEGA.brd
+\t (00:00:01) 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/USER/DESKTOP/WORK/PCB_LIB/PSM_YJ/328/allegro/ATMEGA.brd
+\i (00:00:03) trapsize 12611
+\i (00:00:03) trapsize 12337
+\i (00:00:03) trapsize 12658
+\i (00:00:04) trapsize 10904
+\i (00:00:04) trapsize 16768
+\i (00:00:05) generaledit 
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 38466.47 18009.15
+\i (00:00:28) trapsize 8384
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 25884.15 17841.47
+\i (00:00:28) trapsize 4192
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 24651.68 17480.96
+\i (00:00:28) trapsize 2096
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 24186.36 17422.27
+\i (00:00:28) trapsize 1048
+\i (00:00:39) place manual 
+\i (00:00:40) setwindow form.plc_manual
+\i (00:00:40) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\w (00:00:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:40) Placing IC2 / ATMEGA8-TQFP32_1_DIP328_ATMEGA3 / DIP328 on Top.
+\i (00:00:40) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:00:41) FORM plc_manual tree 'MULTISEL YES' IC3 'Components by refdes' 
+\i (00:00:41) FORM plc_manual tree  IC3 'Components by refdes' 
+\i (00:00:42) FORM plc_manual done  
+\i (00:00:42) setwindow pcb
+\i (00:00:42) generaledit 
+\i (00:00:42) pick grid 23234.76 17135.12
+\t (00:00:42) last pick:  23200.00 17100.00
+\i (00:00:47) place manual 
+\i (00:00:48) setwindow form.plc_manual
+\i (00:00:48) FORM plc_manual advanced_settings  
+\i (00:00:49) FORM plc_manual library YES 
+\i (00:00:50) FORM plc_manual placement_list  
+\i (00:00:50) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\w (00:00:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:50) Placing IC2 / ATMEGA8-TQFP32_1_DIP328_ATMEGA3 / DIP328 on Top.
+\i (00:00:51) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:00:51) FORM plc_manual tree 'MULTISEL YES' IC3 'Components by refdes' 
+\i (00:00:51) FORM plc_manual tree  IC3 'Components by refdes' 
+\i (00:00:52) FORM plc_manual done  
+\i (00:00:52) setwindow pcb
+\i (00:00:52) generaledit 
+\i (00:00:52) drag_start grid 23337.47 17277.65
+\i (00:00:53) drag_stop 23492.57 17099.49
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 23643.49 17137.22
+\i (00:00:53) trapsize 2096
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 23643.49 17137.21
+\i (00:00:53) trapsize 4192
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 23643.48 17137.21
+\i (00:00:53) trapsize 8384
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 19512.19 15879.57
+\i (00:00:54) trapsize 16768
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 23341.46 9725.61
+\i (00:00:54) trapsize 16768
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 23475.61 9725.61
+\i (00:00:54) trapsize 16768
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 24414.64 9792.68
+\i (00:00:54) trapsize 16768
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 24448.17 9759.15
+\i (00:00:54) trapsize 16768
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 24448.17 9759.15
+\i (00:00:54) trapsize 16768
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 24448.17 9759.15
+\i (00:00:54) trapsize 16768
+\i (00:00:54) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 24448.17 9759.15
+\i (00:00:55) trapsize 8384
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.32 9759.15
+\i (00:00:55) trapsize 4192
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.32 9759.16
+\i (00:00:55) trapsize 2096
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.32 9759.16
+\i (00:00:55) trapsize 1048
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.32 9759.17
+\i (00:00:55) trapsize 524
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.33 9759.17
+\i (00:00:55) trapsize 262
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.33 9759.18
+\i (00:00:55) trapsize 131
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.33 9759.18
+\i (00:00:55) trapsize 66
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.32 9759.18
+\i (00:00:55) trapsize 33
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.78 9759.18
+\i (00:00:55) trapsize 16
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.78 9759.18
+\i (00:00:55) trapsize 8
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.78 9759.19
+\i (00:00:55) trapsize 4
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.78 9759.19
+\i (00:00:55) trapsize 2
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.90 9759.17
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.91 9759.18
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.91 9759.18
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20082.91 9759.19
+\i (00:00:55) trapsize 1
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 20082.90 9759.20
+\i (00:00:56) trapsize 1
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 20082.89 9759.19
+\i (00:00:56) trapsize 1
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 20082.89 9759.19
+\i (00:00:56) trapsize 1
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 20082.89 9759.19
+\i (00:00:56) trapsize 1
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 20082.84 9759.20
+\i (00:00:56) trapsize 1
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 20082.81 9759.21
+\i (00:00:56) trapsize 1
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 20082.78 9759.22
+\i (00:00:56) trapsize 1
+\i (00:00:56) prepopup 20082.73 9759.24
+\i (00:00:57) pick grid 20082.73 9759.25
+\t (00:00:57) last pick:  20100.00 9800.00
+\i (00:00:59) place manual 
+\i (00:01:00) setwindow form.plc_manual
+\i (00:01:00) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\w (00:01:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:00) Placing IC2 / ATMEGA8-TQFP32_1_DIP328_ATMEGA3 / DIP328 on Top.
+\i (00:01:00) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:01:00) FORM plc_manual tree 'MULTISEL YES' IC3 'Components by refdes' 
+\i (00:01:00) FORM plc_manual tree  IC3 'Components by refdes' 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) pick grid 20082.73 9759.25
+\t (00:01:07) last pick:  20100.00 9800.00
+\t (00:01:07) Placing IC3 / ATMEGA8-TQFP32_1_DIP328_ATMEGA3 / DIP328 on Top.
+\i (00:01:08) pick grid 20082.69 9759.23
+\t (00:01:08) last pick:  20100.00 9800.00
+\i (00:01:11) setwindow form.plc_manual
+\i (00:01:11) FORM plc_manual done  
+\i (00:01:11) setwindow pcb
+\i (00:01:11) generaledit 
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20082.79 9759.19
+\i (00:01:12) trapsize 1
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20082.78 9759.20
+\i (00:01:12) trapsize 1
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20082.79 9759.19
+\i (00:01:12) trapsize 1
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20082.79 9759.20
+\i (00:01:12) trapsize 2
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20082.98 9759.33
+\i (00:01:12) trapsize 3
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20082.97 9759.33
+\i (00:01:12) trapsize 7
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20082.98 9759.34
+\i (00:01:12) trapsize 13
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20082.98 9759.43
+\i (00:01:12) trapsize 26
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20083.09 9759.79
+\i (00:01:12) trapsize 53
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20083.09 9759.79
+\i (00:01:12) trapsize 106
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20083.09 9759.79
+\i (00:01:12) trapsize 211
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 20083.09 9759.80
+\i (00:01:12) trapsize 422
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 20083.08 9759.79
+\i (00:01:13) trapsize 845
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 20083.08 9759.79
+\i (00:01:13) trapsize 1690
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 20083.08 9759.80
+\i (00:01:13) trapsize 3380
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 20083.08 9759.80
+\i (00:01:13) trapsize 6759
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 20556.22 9232.57
+\i (00:01:14) trapsize 3380
+\i (00:01:14) pick grid 20907.71 9705.73
+\t (00:01:14) last pick:  20900.00 9700.00
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 20894.19 9097.39
+\i (00:01:15) trapsize 1690
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 20725.21 9168.36
+\i (00:01:15) trapsize 845
+\i (00:01:16) pick grid 20211.50 9555.33
+\t (00:01:16) last pick:  20200.00 9600.00
+\i (00:01:16) drag_start grid 20113.49 9541.81
+\i (00:01:16) move 
+\t (00:01:17) last pick:  20100.00 9800.00
+\t (00:01:17) Moving IC3 / ATMEGA8-TQFP32_1_DIP328_ATMEGA3 / DIP328.
+\t (00:01:17) Pick new location for the element(s).
+\i (00:01:17) drag_stop grid 20899.27 9450.56
+\i (00:01:17) generaledit 
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 20927.99 9293.41
+\i (00:01:17) trapsize 1690
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 20928.00 9290.03
+\i (00:01:17) trapsize 3380
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 20927.99 9290.02
+\i (00:01:17) trapsize 6759
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 21009.11 9222.43
+\i (00:01:18) trapsize 3380
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 21009.11 9222.44
+\i (00:01:18) trapsize 1690
+\i (00:01:19) drag_start grid 20917.86 9469.15
+\i (00:01:19) move 
+\t (00:01:19) last pick:  20900.00 9500.00
+\t (00:01:19) Moving IC3 / ATMEGA8-TQFP32_1_DIP328_ATMEGA3 / DIP328.
+\t (00:01:19) Pick new location for the element(s).
+\i (00:01:19) drag_stop grid 21059.81 9834.16
+\i (00:01:19) generaledit 
+\i (00:01:22) save 
+\i (00:01:27) fillin yes 
+\i (00:01:27) generaledit 
+\i (00:01:28) exit 
+\t (00:01:29)     Journal end - Tue Jul 16 17:40:52 2019

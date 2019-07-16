@@ -1,0 +1,111 @@
+\t (00:00:22) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:22)     Journal start - Tue Jul 16 17:23:45 2019
+\t (00:00:22)         Host=DESKTOP-0CCQGI6 User=user Pid=11012 CPUs=4
+\t (00:00:22) CmdLine= allegro.exe -p .
+\t (00:00:22) 
+\t (00:00:22) Starting new design...
+\i (00:00:23) trapsize 1711
+\i (00:00:23) trapsize 1673
+\i (00:00:23) trapsize 1711
+\i (00:00:23) trapsize 2115
+\i (00:00:23) trapsize 3482
+\i (00:00:23) trapsize 3482
+\i (00:00:23) package symbol wizard 
+\i (00:00:24) generaledit 
+\i (00:00:25) setwindow form.sym_wizard
+\i (00:00:25) FORM sym_wizard wiz_next  
+   (00:00:25) Loading cmds.cxt 
+   (00:00:25) Loading axlcore.cxt 
+\i (00:00:27) FORM sym_wizard load_template  
+\t (00:00:27) Opening existing design...
+\i (00:00:28) fillin yes 
+\t (00:00:28) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:00:28) setwindow pcb
+\i (00:00:28) trapsize 274
+\d (00:00:28) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:00:29) setwindow form.sym_wizard
+\i (00:00:29) FORM sym_wizard wiz_next  
+\i (00:00:31) FORM sym_wizard pack_units Millimeter 
+\i (00:00:32) FORM sym_wizard pack_units_create Millimeter 
+\i (00:00:33) FORM sym_wizard wiz_next  
+\i (00:00:53) FORM sym_wizard dip_e1 10.160 
+\i (00:00:59) FORM sym_wizard dip_width 7.200 
+\i (00:01:10) FORM sym_wizard dip_len 34.600 
+\i (00:01:10) FORM sym_wizard wiz_next  
+\i (00:01:12) FORM sym_wizard default_pad_browse  
+\i (00:01:21) fillin "Pad35cir21d"
+\i (00:01:21) FORM sym_wizard wiz_next  
+\i (00:01:23) FORM sym_wizard wiz_next  
+\i (00:01:23) FORM sym_wizard wiz_finish  
+\w (00:01:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:23) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:01:23) setwindow pcb
+\i (00:01:23) trapsize 6965
+\t (00:01:23) Performing DRC...
+\t (00:01:23) No DRC errors detected.
+\w (00:01:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:23) trapsize 6965
+\i (00:01:23) trapsize 1966
+\i (00:01:23) trapsize 393
+\i (00:01:23) trapsize 393
+\i (00:01:24) fillin yes 
+\t (00:01:24) Creating package symbol 'C:/Users/user/Desktop/work/pcb_lib/psm_yj/dip328.psm'.
+\t (00:01:24) Starting Create symbol...
+\i (00:01:25) generaledit 
+\i (00:01:31) new 
+\e (00:01:31) Do you want to save the changes you made to C:/Users/user/Desktop/work/pcb_lib/psm_yj/dip328.dra?
+\i (00:01:32) fillin no 
+\i (00:01:39) newdrawfillin "dip328.dra" "Package Symbol (Wizard)"
+\t (00:01:39) Starting new design...
+\i (00:01:39) trapsize 837
+\i (00:01:39) trapsize 837
+\i (00:01:39) package symbol wizard 
+\i (00:01:39) generaledit 
+\i (00:01:41) setwindow form.sym_wizard
+\i (00:01:41) FORM sym_wizard wiz_next  
+\i (00:01:41) FORM sym_wizard wiz_next  
+\i (00:01:42) fillin confirm
+\i (00:01:43) FORM sym_wizard load_template  
+\t (00:01:43) Opening existing design...
+\i (00:01:44) fillin yes 
+\t (00:01:44) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:01:44) setwindow pcb
+\i (00:01:44) trapsize 274
+\d (00:01:44) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:01:44) setwindow form.sym_wizard
+\i (00:01:44) FORM sym_wizard wiz_next  
+\i (00:01:46) FORM sym_wizard pack_units Millimeter 
+\i (00:01:47) FORM sym_wizard pack_units_create Millimeter 
+\i (00:01:48) FORM sym_wizard wiz_next  
+\i (00:01:52) FORM sym_wizard dip_pin_count 28 
+\i (00:02:00) FORM sym_wizard dip_e1 10.160 
+\i (00:02:06) FORM sym_wizard dip_width 7.300 
+\i (00:02:12) FORM sym_wizard dip_len 34.600 
+\i (00:02:12) FORM sym_wizard wiz_next  
+\i (00:02:13) FORM sym_wizard default_pad_browse  
+\i (00:02:25) fillin "Pad35cir21d"
+\i (00:02:26) FORM sym_wizard wiz_next  
+\i (00:02:26) FORM sym_wizard wiz_next  
+\i (00:02:26) FORM sym_wizard wiz_finish  
+\w (00:02:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:26) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:02:26) setwindow pcb
+\i (00:02:26) trapsize 6965
+\t (00:02:26) Performing DRC...
+\t (00:02:26) No DRC errors detected.
+\w (00:02:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:26) trapsize 6965
+\i (00:02:26) trapsize 1966
+\i (00:02:26) trapsize 393
+\i (00:02:26) trapsize 393
+\i (00:02:28) fillin yes 
+\i (00:02:28) fillin yes 
+\t (00:02:28) Creating package symbol 'C:/Users/user/Desktop/work/pcb_lib/psm_yj/dip328.psm'.
+\t (00:02:28) Starting Create symbol...
+\i (00:02:29) generaledit 
+\i (00:02:31) save 
+\i (00:02:32) fillin yes 
+\t (00:02:32) Symbol 'dip328.psm' created.
+\i (00:02:32) generaledit 
+\i (00:02:46) exit 
+\t (00:02:47)     Journal end - Tue Jul 16 17:26:09 2019

@@ -1,0 +1,82 @@
+\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:01)     Journal start - Tue Jul 16 17:34:11 2019
+\t (00:00:01)         Host=DESKTOP-0CCQGI6 User=user Pid=9464 CPUs=4
+\t (00:00:01) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORK\PCB_LIB\PSM_YJ\328\allegro\ATMEGA.brd
+\t (00:00:01) 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/USER/DESKTOP/WORK/PCB_LIB/PSM_YJ/328/allegro/ATMEGA.brd
+\i (00:00:03) trapsize 12611
+\i (00:00:03) trapsize 12337
+\i (00:00:03) trapsize 12658
+\i (00:00:04) trapsize 10904
+\i (00:00:04) trapsize 16768
+\i (00:00:05) generaledit 
+\i (00:00:05) pick grid 737.80 5097.56
+\t (00:00:05) last pick:  700.00 5100.00
+\i (00:00:06) pick grid 8048.78 9859.76
+\t (00:00:06) last pick:  8000.00 9900.00
+\i (00:00:20) pick grid 536.59 8820.12
+\t (00:00:20) last pick:  500.00 8800.00
+\i (00:00:23) open 
+\i (00:01:53) fillin "menu_cancel"
+\i (00:01:53) generaledit 
+\i (00:03:34) place manual 
+\i (00:03:36) setwindow form.plc_manual
+\i (00:03:36) FORM plc_manual advanced_settings  
+\i (00:03:38) FORM plc_manual library YES 
+\i (00:03:38) FORM plc_manual placement_list  
+\i (00:03:39) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\w (00:03:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:03:39) Placing IC2 / ATMEGA8-TQFP32_1_DIP328_ATMEGA3 / DIP328 on Top.
+\i (00:03:39) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:03:40) FORM plc_manual tree 'MULTISEL YES' IC3 'Components by refdes' 
+\i (00:03:40) FORM plc_manual tree  IC3 'Components by refdes' 
+\i (00:03:41) FORM plc_manual hide  
+\i (00:03:42) setwindow pcb
+\i (00:03:42) pick grid 8920.73 12073.17
+\t (00:03:42) last pick:  8900.00 12100.00
+\t (00:03:42) Placing IC3 / ATMEGA8-TQFP32_1_DIP328_ATMEGA3 / DIP328 on Top.
+\i (00:03:43) pick grid 9859.76 12073.17
+\t (00:03:43) last pick:  9900.00 12100.00
+\i (00:03:44) zoom in 1 
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom in 9859.76 10698.17
+\i (00:03:44) trapsize 8384
+\i (00:03:44) zoom in 1 
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom in 9323.17 11318.60
+\i (00:03:44) trapsize 4192
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in 9281.25 11318.61
+\i (00:03:45) trapsize 2096
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in 9012.96 11448.56
+\i (00:03:45) trapsize 1048
+\i (00:03:46) zoom out 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom out 9012.96 11438.09
+\i (00:03:46) trapsize 2096
+\i (00:03:48) zoom in 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom in 11897.12 10914.07
+\i (00:03:48) trapsize 1048
+\i (00:03:49) zoom out 1 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom out 11890.83 10899.40
+\i (00:03:49) trapsize 2096
+\i (00:03:50) zoom out 1 
+\i (00:03:50) setwindow pcb
+\i (00:03:50) zoom out 12657.98 10442.46
+\i (00:03:50) trapsize 4192
+\i (00:04:17) pick grid 3980.39 13460.76
+\t (00:04:17) last pick:  4000.00 13500.00
+\i (00:05:00) pick grid 3888.16 12530.12
+\t (00:05:00) last pick:  3900.00 12500.00
+\i (00:05:01) exit 
+\e (00:05:01) Do you want to save the changes you made to ATMEGA.brd?
+\i (00:05:02) fillin no 
+\t (00:05:03)     Journal end - Tue Jul 16 17:39:12 2019

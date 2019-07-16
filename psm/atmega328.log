@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : atmega328.dra                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Tue Jul 16 15:41:31 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/work/pcb_lib/psm_yj
+    Name      = atmega328.psm
+    User      = user
+    Machine   = DESKTOP-0CCQGI6
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

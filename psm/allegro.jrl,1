@@ -1,0 +1,133 @@
+\t (00:01:08) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:08)     Journal start - Tue Jul 16 16:37:30 2019
+\t (00:01:08)         Host=DESKTOP-0CCQGI6 User=user Pid=8044 CPUs=4
+\t (00:01:08) CmdLine= allegro.exe -p .
+\t (00:01:08) 
+\t (00:01:08) Starting new design...
+\i (00:01:08) trapsize 1711
+\i (00:01:08) trapsize 1673
+\i (00:01:08) trapsize 1711
+\i (00:01:09) trapsize 2115
+\i (00:01:09) trapsize 3482
+\i (00:01:09) trapsize 3482
+\i (00:01:09) package symbol wizard 
+\i (00:01:10) generaledit 
+\i (00:01:11) setwindow form.sym_wizard
+\i (00:01:11) FORM sym_wizard wiz_next  
+   (00:01:11) Loading cmds.cxt 
+   (00:01:11) Loading axlcore.cxt 
+\i (00:01:12) FORM sym_wizard load_template  
+\t (00:01:12) Opening existing design...
+\i (00:01:13) fillin yes 
+\t (00:01:13) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:01:13) setwindow pcb
+\i (00:01:13) trapsize 274
+\d (00:01:13) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:01:14) setwindow form.sym_wizard
+\i (00:01:14) FORM sym_wizard wiz_next  
+\i (00:01:17) FORM sym_wizard pack_units Millimeter 
+\i (00:01:18) FORM sym_wizard pack_units_create Millimeter 
+\i (00:01:19) FORM sym_wizard wiz_next  
+\i (00:09:46) FORM sym_wizard cancel  
+\i (00:09:46) setwindow pcb
+\i (00:09:46) generaledit 
+\e (00:09:46) ERROR(SPMHDB-20): Buffer not initialized.
+\i (00:09:53) prmed 
+\i (00:09:54) setwindow form.prmedit
+\i (00:09:54) FORM prmedit cancel  
+\i (00:09:55) setwindow pcb
+\i (00:09:55) generaledit 
+\i (00:10:10) prmed 
+\i (00:10:12) setwindow form.prmedit
+\i (00:10:12) FORM prmedit design  
+\i (00:10:13) FORM prmedit cancel  
+\i (00:10:13) setwindow pcb
+\i (00:10:13) generaledit 
+\i (00:10:22) pick grid 25610 24513
+\t (00:10:22) last pick:  25600 24500
+\i (00:10:22) zoom out 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom out 37894 23361
+\i (00:10:22) trapsize 274
+\i (00:10:22) zoom out 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom out 38168 23142
+\i (00:10:22) trapsize 274
+\i (00:10:22) zoom out 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom out 38223 23087
+\i (00:10:22) trapsize 274
+\i (00:10:22) zoom out 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom out 38223 23087
+\i (00:10:22) trapsize 274
+\i (00:10:22) zoom out 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom out 38223 23087
+\i (00:10:22) trapsize 274
+\i (00:10:43) artwork 
+\i (00:10:45) setwindow form.film_control
+\i (00:10:45) FORM film_control general_parameters  
+\i (00:10:46) FORM film_control film_control  
+\i (00:10:49) FORM film_control cancel  
+\i (00:10:49) setwindow pcb
+\i (00:10:49) generaledit 
+\i (00:10:53) new 
+\e (00:10:53) Do you want to save the changes you made to 328_dip.dra?
+\i (00:10:54) fillin no 
+\i (00:11:36) newdrawfillin "menu_cancel"
+\i (00:11:36) generaledit 
+\t (00:23:40) last pick:  66026 21771
+\w (00:23:40) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:23:52) open 
+\e (00:23:52) Do you want to save the changes you made to 328_dip.dra?
+\i (00:23:53) fillin menu_cancel 
+\i (00:23:53) generaledit 
+\i (00:23:54) new 
+\e (00:23:55) Do you want to save the changes you made to 328_dip.dra?
+\i (00:23:57) fillin no 
+\i (00:28:48) newdrawfillin "dip328.dra" "Package Symbol (Wizard)"
+\t (00:28:48) Starting new design...
+\i (00:28:48) trapsize 274
+\i (00:28:49) trapsize 274
+\i (00:28:49) package symbol wizard 
+\i (00:28:49) generaledit 
+\i (00:28:51) setwindow form.sym_wizard
+\i (00:28:51) FORM sym_wizard wiz_next  
+\i (00:28:52) FORM sym_wizard load_template  
+\t (00:28:52) Opening existing design...
+\i (00:28:53) fillin yes 
+\t (00:28:53) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:28:53) setwindow pcb
+\i (00:28:53) trapsize 274
+\d (00:28:53) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:28:53) setwindow form.sym_wizard
+\i (00:28:53) FORM sym_wizard wiz_next  
+\i (00:28:55) FORM sym_wizard pack_units Millimeter 
+\i (00:28:57) FORM sym_wizard pack_units_create Millimeter 
+\i (00:28:58) FORM sym_wizard wiz_next  
+\i (00:29:25) FORM sym_wizard dip_pin_count 28 
+\i (00:30:10) FORM sym_wizard dip_e1 10.160 
+\i (00:30:29) FORM sym_wizard dip_width 7.200 
+\i (00:30:35) FORM sym_wizard dip_len 34.600 
+\i (00:30:35) FORM sym_wizard wiz_next  
+\i (00:30:37) FORM sym_wizard default_pad_browse  
+\i (00:31:11) fillin "menu_cancel"
+\i (00:31:11) FORM sym_wizard wiz_back  
+\i (00:31:13) FORM sym_wizard wiz_next  
+\i (00:31:14) FORM sym_wizard default_pad_browse  
+\i (00:31:40) fillin "menu_cancel"
+\i (00:31:41) FORM sym_wizard cancel  
+\i (00:31:41) setwindow pcb
+\i (00:31:41) generaledit 
+\e (00:31:41) ERROR(SPMHDB-20): Buffer not initialized.
+\i (00:31:46) new 
+\e (00:31:46) Do you want to save the changes you made to dip328.dra?
+\i (00:31:47) fillin no 
+\i (00:31:49) newdrawfillin "menu_cancel"
+\i (00:31:49) generaledit 
+\i (00:31:51) exit 
+\e (00:31:51) Do you want to save the changes you made to dip328.dra?
+\i (00:31:53) fillin yes 
+\e (00:31:54) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\t (00:31:54)     Journal end - Tue Jul 16 17:08:16 2019
