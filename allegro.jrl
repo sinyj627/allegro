@@ -1,0 +1,24 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Wed Jul 17 10:21:29 2019
+\t (00:00:03)         Host=DESKTOP-0CCQGI6 User=user Pid=1436 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1978
+\i (00:00:04) trapsize 1935
+\i (00:00:04) trapsize 1986
+\i (00:00:05) trapsize 1711
+\i (00:00:05) trapsize 3291
+\i (00:00:05) generaledit 
+\i (00:00:11) open 
+\i (00:00:36) fillin "C:\Users\user\Desktop\work\pcb_lib\psm\PBGA256_17.dra"
+\i (00:00:36) cd "C:\Users\user\Desktop\work\pcb_lib\psm"
+\t (00:00:36) Opening existing design...
+\i (00:00:36) trapsize 159
+\i (00:00:36) trapsize 156
+\i (00:00:36) trapsize 159
+\i (00:00:36) trapsize 197
+\i (00:00:36) trapsize 197
+\t (00:00:37)     Journal end - Wed Jul 17 10:22:03 2019
